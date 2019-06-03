@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+
+h3 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  margin-right: 32px;
+  font-family: 'Tangerine', serif;
+  font-weight: bold;
+  border: 0.5px solid #F1F1F1;
+  font-size: 30px
+}
+
+body {
+  font-family: Georgia, serif;
+  font-size: 10px;
+}
+
+p {
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: justify
+}
+
+.container {
+  width: 320px;
+  float: left;
+  border: 0.5px solid #F1F1F1;
+  background-color: #F1F1F1;
+  border-left-style: solid;
+  border-left-color: gray;
+  border-left-width: 7px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+img {
+  max-width:300px;
+  max-height:250px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border: 0.5px solid black;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+.info_box {
+  width: 300px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  float: left;
+  border: 0.5px solid #F1F1F1
+}
+
+ul {
+padding: 0;
+margin: 0;
+text-align: left
+}
+
+li {
+  list-style: none
+}
+
+li span {
+  font-weight: bold;
+  text-align: left;
+  padding-left: 10px
+}
